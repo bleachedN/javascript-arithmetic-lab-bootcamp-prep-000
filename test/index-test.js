@@ -9,7 +9,7 @@ it('add(a, b) adds two numbers and returns the result', function add() {
   expect(add(a, b)).toEqual(a + b)
 })
 
-it('subtract(a, b) subtracts b from a and returns the result', function() {
+it('subtract(a, b) subtracts b from a and returns the result', function subtract() {
   expect(subtract(a, b)).toEqual(a - b)
 })
 
