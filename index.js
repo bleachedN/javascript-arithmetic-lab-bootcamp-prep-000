@@ -1,1 +1,1 @@
-var add = 81, subtract = 20
+var add() = 81, subtract() = 20
