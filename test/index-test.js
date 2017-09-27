@@ -13,11 +13,11 @@ it('subtract(a, b) subtracts b from a and returns the result', function subtract
   expect(subtract(a, b)).toEqual(a - b)
 })
 
-it('multiply(a, b) multiplies two numbers and returns the result', function() {
+it('multiply(a, b) multiplies two numbers and returns the result', function multiply() {
   expect(multiply(a, b)).toEqual(a * b)
 })
 
-it('divide(a, b) divides a by b and returns the result', function() {
+it('divide(a, b) divides a by b and returns the result', function divide() {
   expect(divide(a, b)).toEqual(a / b)
 })
 
